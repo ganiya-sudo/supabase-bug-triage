@@ -10,8 +10,8 @@ This repository contains a log of my technical triage work. I actively monitor o
 **The Issue:** When auto-limit is enabled (e.g., 100 rows), writing `LIMIT ALL` or `LIMIT NULL` causes the SQL Editor to append a second `LIMIT 100`, generating invalid SQL (`select 1 limit all limit 100`).
 **My Action:** Ran the exact reproduction steps on my end. Confirmed the syntax error and provided environment details to the developer for the fix.
 https://github.com/supabase/supabase/issues/51836#issuecomment-6215042957
-<img width="1305" height="669" alt="1 Issue #51836" src="https://github.com/user-attachments/assets/88c162b3-b1eb-457a-8330-b4d8a13a1fbb" />
 <img width="1271" height="595" alt="Issue #51836" src="https://github.com/user-attachments/assets/c4fd662c-0c39-4e95-96a4-fb1dddd4c9a5" />
+<img width="1305" height="669" alt="1 Issue #51836" src="https://github.com/user-attachments/assets/88c162b3-b1eb-457a-8330-b4d8a13a1fbb" />
 <img width="1321" height="633" alt="2 Issue #51836" src="https://github.com/user-attachments/assets/fa8af48a-196d-442a-a973-863d45f16a30" />
 
 
