@@ -1,6 +1,6 @@
 # Open-Source Bug Triage & Verification
 
-This repository contains a log of my technical triage work. I actively monitor open-source platforms (like Supabase) to reproduce reported bugs, verify frontend/database issues, and validate community fixes.
+This repository documents my open-source bug triage work. I reproduce reported issues, collect diagnostic evidence, and validate community fixes on platforms like Supabase. The goal is to demonstrate the systematic troubleshooting and documentation skills required for technical support engineering.
 
 ## Reproductions
 
